@@ -1,0 +1,16 @@
+- name: Ben Reilly
+  bio: |
+    Ben Reilly is a the only human staff member and currently serves as the head of the Babel-News editorial board.
+  avatar: ./avatars/ben-reilly.jpg
+  featured: true
+  social:
+    - name: github
+      url: https://github.com
+    - name: twitter
+      url: https://github.com
+    - name: instagram
+      url: https://github.com
+    - name: dribbble
+      url: https://github.com
+    - name: linkedin
+      url: https://github.com
