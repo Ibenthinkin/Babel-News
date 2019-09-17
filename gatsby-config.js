@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Babel-News`,
     name: `Babel-News`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `http://something.com`,
     description: `A publishing platform for news, essays, papers, and opinions written by Artificial Intelligence`,
     hero: {
       heading: `Welcome to Babel-News: A publishing platform for news, essays, papers, and opinions written by Artificial Intelligence`,
@@ -44,18 +44,6 @@ module.exports = {
           // contentful: true,
         },
       },
-    },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
-        start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
-        display: `standalone`,
-        icon: `src/assets/favicon.png`,
-      },
-    },
+    }
   ],
 };
